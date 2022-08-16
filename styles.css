@@ -1,1 +1,25 @@
-/* Copy and paste your CSS from CodePen into here */
+#image {
+    height: auto;
+    display: block;
+    max-width: 100%;
+    margin: auto;
+  }
+  
+  #title {
+    text-align: center;
+    padding: 50;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+  
+  #tribute-link {
+    position: absolute;
+    bottom: 50;  
+  }
+  
+  #information {
+    text-align: center;  
+  }
+  

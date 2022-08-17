@@ -1,24 +1,11 @@
-# README - Learning Journey step 7
+This is my first draft for a tribute page. The basic structure is ok but im not happy with the CSS. A lot of work needs to be done with it to make it look presentable.
 
-## 7.2 - Your Tribute Page
+Font - Style, Size, Colour, maybe layout.. maybe put into boxes to make the text clearer.
 
-You will now be using git and vscode to:
+Background - Needs a better quality background photo, fixed position with maybe boxes of text scrolling in the foreground.
 
-  * _clone_ your repository to your local machine (use the HTTPS link)
+Footer - Needs more links, could include links to the websites of each of the attractions listed.
 
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
+Navbar - Although a static page can be a navbar to take you to the different sections of the site - Things to see, history etc
 
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
-
-<details>
-  <summary>Super Secret Hint</summary>
-  All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
- 
- Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-</details>
-
-## 7.3 - Deploying your site using github Pages
-
-Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Make sure that the deployed branch is `main` in settings.
+Layout could be improved - Have a main content section in the center with an secondary, narrower section at either side, all properly marked with HTML5.
